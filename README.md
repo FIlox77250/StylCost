@@ -40,6 +40,6 @@ Elle facilite la **gestion des projets de création textile**, le **calcul des c
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/ton-utilisateur/stylcost.git
+git clone https://github.com/Filox77250/stylcost.git
 cd stylcost
 ```
